@@ -12,6 +12,8 @@
 
 <img src="./img/foley_django.jpg" width="700px" alt="foley_django">
 
+<img src="./img/foley_video.gif" alt="foley_video">
+
 ### 구현하려된 계획
 
 <img src="./img/objective.jpg" width="700px" alt="objective">
