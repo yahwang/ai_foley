@@ -12,7 +12,7 @@
 
 <img src="./img/foley_django.jpg" width="700px" alt="foley_django">
 
-<img src="./img/foley_video.gif" alt="foley_video">
+<img src="./img/foley_video.gif" width="700px" alt="foley_video">
 
 ### 구현하려된 계획
 
