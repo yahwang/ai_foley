@@ -8,6 +8,8 @@
 
 ### 최종 구현 : [im2txt](https://github.com/tensorflow/models/tree/master/research/im2txt)를 활용한 Image Captioning과 [syntaxnet](https://github.com/tensorflow/models/tree/master/research/syntaxnet)을 통한 구문분석
 
+참고 : [im2txt_demo](https://github.com/hologerry/im2txt_demo)의 웹페이지를 수정하여 만듬 
+
 #### 구현한 웹페이지 모습 ( Django )
 
 <img src="./img/foley_django.jpg" width="700px" alt="foley_django">
